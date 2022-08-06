@@ -1,0 +1,14 @@
+.dateMaskInput {
+  height: 35px;
+  width: calc(100% - 24px);
+  font-size: 1.3rem;
+  border: 2px solid rgb(205, 205, 205);
+  padding: 7px 10px;
+  color: #5c5c5c;
+}
+
+.dateMaskInput:focus {
+  outline: none;
+  border: 2px solid rgb(150, 150, 150);
+  box-shadow: 0 0 12px #c4c4c4;
+}
